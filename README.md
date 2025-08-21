@@ -1,16 +1,77 @@
-## Hi there 👋
+# 👋 Hi, I'm Vibhu Dixit  
 
-<!--
-**vibhu-dixit/vibhu-dixit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduate Computer Science student @ **Arizona State University (MS, 2024–2026)**  
+💡 Specializing in **Applied AI, LLM Optimization, and Data Engineering**  
+🌐 Passionate about building scalable ML systems, optimizing inference, and designing efficient ETL as well as ELT pipelines.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack  
+
+### 🖥️ Languages
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="22" alt="Python icon"/> **Python**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="22" alt="C++ icon"/> **C++**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="22" alt="MySQL icon"/> **SQL**  
+
+### 🤖 Machine Learning & AI
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="22" alt="PyTorch icon"/> **PyTorch**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="22" alt="TensorFlow icon"/> **TensorFlow**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="22" alt="OpenCV icon"/> **OpenCV**  
+
+### 🔄 Data Engineering
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="22" alt="Kafka icon"/> **Apache Kafka**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="22" alt="Airflow icon"/> **Apache Airflow**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="22" alt="Spark icon"/> **Apache Spark**  
+
+### ☁️ Cloud & MLOps
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="22" alt="AWS icon"/> **Amazon Web Services (AWS)**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="22" alt="Git icon"/> **Git**  
+
+### 📊 Tools & Visualization
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="22" alt="NumPy icon"/> **NumPy**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="22" alt="Pandas icon"/> **Pandas** 
+
+
+---
+
+## 💼 Experience  
+
+**Data Engineer Intern – Alcon (Feb 2024 – Aug 2024)**  
+- Designed ETL pipelines processing **50M+ events/day** on AWS (EC2, S3, RDS).  
+- Improved deployment cycles by **43%** with CI/CD workflows.  
+- Reduced feature retrieval latency by **38%** with schema validation & partitioning.  
+
+**Deep Learning Intern – Bhargava Infotech (Sept 2023 – Nov 2023)**  
+- Built distributed CNN training pipeline on SageMaker, reducing costs by **12%**.  
+- Processed **9GB+ geospatial data** in PyTorch, boosting model F1-score by **17%**.  
+- Deployed models with drift detection monitoring.  
+
+---
+
+## 🚀 Projects  
+
+- [**LLM for Temporal Reasoning**](https://github.com/vibhu-dixit/Llama-2) → Agentic LLM system for SQL generation (**85% schema accuracy**).  
+- [**Efficient LLaMA-2 Optimization**](https://github.com/vibhu-dixit/Llama-2) → Reduced inference latency (**20%**) & memory (**14%**) with GMQA, RoPE & LoRA.  
+- [**OpenMonitor**](https://github.com/vibhu-dixit/OpenMonitor) → Real-time YOLOv8 surveillance system (🏆 Hackathon runner-up).  
+- [**ZeroETL**](https://pypi.org/project/zeroetl/0.1.0/) → Python package for Iceberg ingestion (**1.5M rows/min** with deduplication).  
+- [**House Price Prediction with MLOps**](https://github.com/vibhu-dixit/prices-predictor-system) → Modular pipelines with MLflow (**12.6% improved accuracy**).  
+
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vibhu-dixit&show_icons=true&hide=issues,contribs&count_private=true&theme=default" height="180px"/>
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+📫 [Email](mailto:vibhu.dixit02@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vibhu-dixit-ml-engineer/) · [GitHub](https://github.com/vibhu-dixit)  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vibhu-dixit&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile visitor counter"/>
+</p>
