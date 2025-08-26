@@ -41,7 +41,7 @@
 - Improved deployment cycles by **43%** with CI/CD workflows.  
 - Reduced feature retrieval latency by **38%** with schema validation & partitioning.  
 
-**Deep Learning Intern – Bhargava Infotech (Sept 2023 – Nov 2023)**  
+**Deep Learning Intern – Bhargava Infotech (Aug 2023 – Jan 2023)**  
 - Built distributed CNN training pipeline on SageMaker, reducing costs by **12%**.  
 - Processed **9GB+ geospatial data** in PyTorch, boosting model F1-score by **17%**.  
 - Deployed models with drift detection monitoring.  
