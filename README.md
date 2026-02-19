@@ -63,13 +63,6 @@
 
 ---
 
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vibhu-dixit&show_icons=true&hide=issues,contribs&count_private=true&theme=default" height="180px"/>
-</p>
-
----
 
 ## 🌐 Connect With Me  
 
