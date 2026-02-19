@@ -2,7 +2,7 @@
 
 🎓 Graduate Computer Science student @ **Arizona State University (MS, 2024–2026)**  
 💡 Specializing in **Applied AI, LLM Optimization, and Data Engineering**  
-🌐 Passionate about building scalable ML systems, optimizing inference, and designing efficient ETL as well as ELT pipelines.  
+🌐 Passionate about building scalable Fullstack ML systems, optimizing inference, and designing efficient ETL as well as ELT pipelines.  
 
 ---
 
@@ -11,7 +11,8 @@
 ### 🖥️ Languages
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="22" alt="Python icon"/> **Python**  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="22" alt="C++ icon"/> **C++**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="22" alt="MySQL icon"/> **SQL**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="22" alt="MySQL icon"/> **SQL**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="22" alt="TypeScript icon"/> **TypeScript** 
 
 ### 🤖 Machine Learning & AI
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="22" alt="PyTorch icon"/> **PyTorch**  
@@ -21,7 +22,8 @@
 ### 🔄 Data Engineering
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="22" alt="Kafka icon"/> **Apache Kafka**  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="22" alt="Airflow icon"/> **Apache Airflow**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="22" alt="Spark icon"/> **Apache Spark**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="22" alt="Spark icon"/> **Apache Spark**
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apache-iceberg.svg" height="22" alt="Iceberg icon"/> **Apache Iceberg**  
 
 ### ☁️ Cloud & MLOps
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="22" alt="AWS icon"/> **Amazon Web Services (AWS)**  
@@ -35,6 +37,9 @@
 ---
 
 ## 💼 Experience  
+
+**Software Engineer(AI) Intern – Privv (Jan 2026 – Present)**
+- Currently working on the custom chatbot with UI control.
 
 **Data Engineer Intern – Alcon (Feb 2024 – Aug 2024)**  
 - Designed ETL pipelines processing **50M+ events/day** on AWS (EC2, S3, RDS).  
