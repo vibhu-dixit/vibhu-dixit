@@ -38,8 +38,10 @@
 
 ## 💼 Experience  
 
-**Software Engineer(AI) Intern – Privv (Jan 2026 – Present)**
-- Currently working on the custom chatbot with UI control.
+**Software Engineer(AI) Intern – Privv (Jan 2026 – May 2026)**
+- Architectured and implemented the agentic AI report generation for customised requirements of project managers.
+- Used AWS textract as OCR for creating an end to end pipeline to upload 100 invoices in less than 20 seconds, including extraction, mapping, storing.
+-  Used the legacy codebase with REST microservices.
 
 **Data Engineer Intern – Alcon (Feb 2024 – Aug 2024)**  
 - Designed ETL pipelines processing **50M+ events/day** on AWS (EC2, S3, RDS).  
@@ -55,6 +57,8 @@
 
 ## 🚀 Projects  
 
+- [**Hiiv**](https://github.com/vibhu-dixit/Hiivbuddy) → Multi Agentic system for sessioned debates(3 mins), leading to better decision making, backed by arguements of different personas.
+- [**Mavenly**](https://github.com/vibhu-dixit/Mavenly) → AI powered CRM intelligence based on knowledge graph structure.
 - [**LLM for Temporal Reasoning**](https://github.com/vibhu-dixit/Llama-2) → Agentic LLM system for SQL generation (**85% schema accuracy**).  
 - [**Efficient LLaMA-2 Optimization**](https://github.com/vibhu-dixit/Llama-2) → Reduced inference latency (**20%**) & memory (**14%**) with GMQA, RoPE & LoRA.  
 - [**OpenMonitor**](https://github.com/vibhu-dixit/OpenMonitor) → Real-time YOLOv8 surveillance system (🏆 Hackathon runner-up).  
