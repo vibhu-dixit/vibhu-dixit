@@ -70,7 +70,7 @@
 
 ## 🌐 Connect With Me  
 
-📫 [Email](mailto:vibhu.dixit02@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vibhu-dixit-ml-engineer/) · [GitHub](https://github.com/vibhu-dixit)  
+📫 [Email](mailto:vibhu.dixit02@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vibhu-dixit-swe/) · [GitHub](https://github.com/vibhu-dixit)  
 
 ---
 
