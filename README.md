@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Vibhu Dixit  
 
 🎓 Graduate Computer Science student @ **Arizona State University (MS, 2024–2026)**  
-💡 Specializing in **Applied AI, LLM Optimization, and Data Engineering**  
-🌐 Passionate about building scalable Fullstack ML systems, optimizing inference, and designing efficient ETL as well as ELT pipelines.  
+💡 Full stack engineer with focus in  **Applied AI, LLM Optimization, and Data Engineering**  
+🌐 uilding production-ready ML systems, inference-optimized agentic workflows, and scalable ETL/ELT pipelines on AWS.
 
 ---
 
@@ -17,7 +17,9 @@
 ### 🤖 Machine Learning & AI
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="22" alt="PyTorch icon"/> **PyTorch**  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="22" alt="TensorFlow icon"/> **TensorFlow**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="22" alt="OpenCV icon"/> **OpenCV**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="22" alt="OpenCV icon"/> **OpenCV**
+- <img src="#" height="22" alt="OpenAI SDK icon"/> **OpenAI SDK**
+- <img src="#" height="22" alt="LangChain icon"/> **LangChain**  
 
 ### 🔄 Data Engineering
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="22" alt="Kafka icon"/> **Apache Kafka**  
@@ -27,11 +29,15 @@
 
 ### ☁️ Cloud & MLOps
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="22" alt="AWS icon"/> **Amazon Web Services (AWS)**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="22" alt="Git icon"/> **Git**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="22" alt="Git icon"/> **Git**
+- <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-plain-wordmark.svg" height="22" alt="Docker icon"/> **Docker**
+- <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/githubactions/githubactions-original-wordmark.svg" height="22" alt="Github Actions icon"/> **Github Actions**
 
 ### 📊 Tools & Visualization
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="22" alt="NumPy icon"/> **NumPy**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="22" alt="Pandas icon"/> **Pandas** 
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="22" alt="Pandas icon"/> **Pandas**
+- <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postgresql/postgresql-original-wordmark.svg" height="22" alt="Pandas icon"/> **PostgreSQL**
+- <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/streamlit/streamlit-original-wordmark.svg" height="22" alt="Pandas icon"/> **Streamlit** 
 
 
 ---
@@ -39,9 +45,9 @@
 ## 💼 Experience  
 
 **Software Engineer(AI) Intern – Privv (Jan 2026 – May 2026)**
-- Architectured and implemented the agentic AI report generation for customised requirements of project managers.
-- Used AWS textract as OCR for creating an end to end pipeline to upload 100 invoices in less than 20 seconds, including extraction, mapping, storing.
--  Used the legacy codebase with REST microservices.
+- Engineered a bulk invoicing pipeline using AWS Textract for OCR extraction, mapping, and storage automation.
+- Architected agentic customized reporting features for project managers, improving decision support and data flow.
+- Built modular RESTful microservices and test suites to improve reliability and production stability for AI workflows.
 
 **Data Engineer Intern – Alcon (Feb 2024 – Aug 2024)**  
 - Designed ETL pipelines processing **50M+ events/day** on AWS (EC2, S3, RDS).  
@@ -58,12 +64,11 @@
 ## 🚀 Projects  
 
 - [**Hiiv**](https://github.com/vibhu-dixit/Hiivbuddy) → Multi Agentic system for sessioned debates(3 mins), leading to better decision making, backed by arguements of different personas.
-- [**Mavenly**](https://github.com/vibhu-dixit/Mavenly) → AI powered CRM intelligence based on knowledge graph structure.
-- [**LLM for Temporal Reasoning**](https://github.com/vibhu-dixit/Llama-2) → Agentic LLM system for SQL generation (**85% schema accuracy**).  
+- [**Hotel Booking Agent**](https://github.com/vibhu-dixit/Hotel-booking-agent) → Multi-channel AI concierge with SMS/web booking, voice STT pipeline, and Python/FastAPI/PostgreSQL backend.
+- [**Mavenly**](https://github.com/vibhu-dixit/Mavenly) → AI powered CRM intelligence based on knowledge graph structure.  
 - [**Efficient LLaMA-2 Optimization**](https://github.com/vibhu-dixit/Llama-2) → Reduced inference latency (**20%**) & memory (**14%**) with GMQA, RoPE & LoRA.  
 - [**OpenMonitor**](https://github.com/vibhu-dixit/OpenMonitor) → Real-time YOLOv8 surveillance system (🏆 Hackathon runner-up).  
-- [**ZeroETL**](https://pypi.org/project/zeroetl/0.1.0/) → Python package for Iceberg ingestion (**1.5M rows/min** with deduplication).  
-- [**House Price Prediction with MLOps**](https://github.com/vibhu-dixit/prices-predictor-system) → Modular pipelines with MLflow (**12.6% improved accuracy**).  
+- [**ZeroETL**](https://pypi.org/project/zeroetl/0.1.0/) → Open-source PySpark ingestion library for Apache Iceberg with deduplication and snapshot management. 
 
 ---
 
