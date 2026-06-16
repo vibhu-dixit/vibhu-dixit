@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Vibhu Dixit  
 
-🎓 Graduate Computer Science student @ **Arizona State University (MS, 2024–2026)**  
-💡 Full stack engineer with focus in  **Applied AI, LLM Optimization, and Data Engineering**  
-🌐 uilding production-ready ML systems, inference-optimized agentic workflows, and scalable ETL/ELT pipelines on AWS.
+🎓 Graduate Computer Science @ **Arizona State University (MS, 2024–2026)**  
+💡 Full stack engineer with focus in  **Agentic AI, LLM Optimization, and Fullstack Engineering**  
+🌐 Building production-ready ML systems, inference-optimized agentic workflows, and scalable ETL/ELT pipelines on AWS.
 
 ---
 
