@@ -60,6 +60,20 @@
 - Deployed models with drift detection monitoring.  
 
 ---
+## Open Source Contributions
+
+### DeerFlow (ByteDance)
+
+Contributed a bug fix to DeerFlow's LangGraph integration by resolving a configuration propagation issue affecting modern LangGraph SDK clients.
+
+**Highlights**
+- Identified root cause in gateway configuration handling
+- Implemented fix for LangGraph 0.6+ context-based requests
+- Added regression coverage to prevent future breakage
+
+PR: https://github.com/bytedance/deer-flow/pull/3735
+
+---
 
 ## 🚀 Projects  
 
